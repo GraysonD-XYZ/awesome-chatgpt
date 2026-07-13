@@ -31,6 +31,7 @@
 - [ChassistantGPT - embeds ChatGPT as a hands-free voice assistant in the background](https://github.com/idosal/assistant-chat-gpt)
 - [WebChatGPT - augment your prompts to ChatGPT with web search results](https://github.com/qunash/chatgpt-advanced/)
 - [Talk to ChatGPT (voice interface)](https://github.com/C-Nedelcu/talk-to-chatgpt)
+- [PromptPack Studio](https://graysond.xyz/tools/promptpack-studio/) - Chrome side-panel extension to save, fill, and reuse prompt packs locally; no account, nothing leaves the browser
 
 
 ### Access ChatGPT from other platforms
